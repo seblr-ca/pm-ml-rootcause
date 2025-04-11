@@ -17,8 +17,11 @@ The analysis follows five main steps:
 └── 📄 InternationalDeclarations.xes.gz
 
 📁 scripts  
-├── 📄 conformance_checking.ipynb  
 ├── 📄 eda.ipynb  
-├── 📄 feature-extraction.ipynb  
-└── 📄 process-discovery.ipynb
+├── 📄 process-discovery.ipynb  
+├── 📄 conformance_checking.ipynb  
+├── 📄 feature-extraction-numerical.ipynb  
+├── 📄 feature-extraction-categorical.ipynb  
+├── 📄 clustering.ipynb  
+└── 📄 rule-extraction.ipynb
 
